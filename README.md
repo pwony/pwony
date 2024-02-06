@@ -1,15 +1,11 @@
  [![Myportfolio](https://github.com/pwony/pwony/assets/148403647/d6ec33f3-3ab0-453b-a24b-9208d095faa6)](https://wonyfullstackdeveloper.web.app/)
-### Hi there 👋
+
 
 <h1 align="center" style="font-size:30px">
   Welcome to visit my github
 </h1>
 
-<h2>
-    Hi, my name is 
-    <span style="font-size:25px">Omura Daiki</sapn>
-    
-</h2>
+
 
 
 <h2>About Me</h2>
