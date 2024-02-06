@@ -45,16 +45,13 @@ and customer relations.
 <h2></h2>
 
 <p align="center">
-
-  &nbsp;&nbsp;
   <a href="p.wony1019@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://www.skype.com/wony1019 p" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="50" /></a>
   &nbsp;&nbsp;
- 
-  <a href="https://#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+   <a href="https://#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
